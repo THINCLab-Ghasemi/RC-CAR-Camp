@@ -72,7 +72,6 @@ void setup() {
   pinMode(Echo, INPUT);    
   pinMode(Trig, OUTPUT);  
   pinMode(DCPOWER, OUTPUT);
-  pinMode(IN2, OUTPUT);
   pinMode(LEFTDIR, OUTPUT);
   pinMode(RIGHTDIR, OUTPUT);
   pinMode(LEFTPWM, OUTPUT);
