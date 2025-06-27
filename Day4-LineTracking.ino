@@ -1,4 +1,5 @@
 //Line Tracking IO define
+#define LT_L digitalRead(A2)
 #define LT_M digitalRead(A1)
 #define LT_R digitalRead(A0)
 
