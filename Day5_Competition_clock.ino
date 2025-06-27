@@ -10,7 +10,7 @@ int Trig = 13;
 #define LEFTDIR 7
 #define RIGHTDIR 8
 #define carSpeed 100
-int rightDistance = 0, leftDistance = 0, middleDistance = 0;
+
 
 void forward(){
   analogWrite(LEFTPWM, carSpeed);
